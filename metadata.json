@@ -1,0 +1,6 @@
+{
+  "name": "온기 (Ongi) — 육아 마음 위로 챗봇",
+  "description": "지친 육아 일상 속에서 따뜻한 공감과 심리적 위로를 건네는 멀티턴 AI 육아 상담 챗봇 및 로컬 대화 기록 보관소",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
